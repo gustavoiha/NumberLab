@@ -1,6 +1,6 @@
 {
   "name": "numberlab",
-  "version": "1.1.1",
+  "version": "1.0.0",
   "description": "A library for numerical tools, such as numeric integration.",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,10 @@
     "type": "git",
     "url": "https://github.com/gustavoiha/NumberLab.git"
   },
-  "author": "Gustavo Iha <gustavoiha@gmail.com>"
+  "author": "Gustavo Iha <gustavoiha@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavoiha/NumberLab/issues"
+  },
+  "homepage": "https://github.com/gustavoiha/NumberLab#readme"
 }
